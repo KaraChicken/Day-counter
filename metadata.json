@@ -1,0 +1,5 @@
+{
+  "name": "日期計算器",
+  "description": "一個簡潔優雅的工具，用於計算日期之間的天數。",
+  "requestFramePermissions": []
+}
