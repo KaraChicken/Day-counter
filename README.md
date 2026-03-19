@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 日期計算器
 
-# Run and deploy your AI Studio app
+這是一個簡潔優雅的工具，專門用於計算兩個日期之間的天數。
 
-This contains everything you need to run your app locally.
+### 主要功能
+- 計算起始日期與結束日期之間的天數。
+- 提供直觀的介面，方便使用者快速選擇日期。
+- 支援多種日期格式的顯示。
 
-View your app in AI Studio: https://ai.studio/apps/19a674a0-d61c-4865-a22f-81d4621f2b45
+### 如何使用
+1. 在起始日期欄位選擇開始的日期。
+2. 在結束日期欄位選擇結束的日期。
+3. 系統會自動計算並顯示這兩個日期之間相差的天數。
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+這是一個基於 React 和 Vite 開發的單頁應用程式。
